@@ -1,0 +1,19 @@
+*{
+    text-decoration: none;
+}
+.section-front{
+    display: flex;
+    margin-left: 10%;
+}
+.section-front-1{
+    border-right: 4px dashed rgba(255, 196, 0, 0.507);
+    border-bottom: 4px dashed rgba(255, 196, 0, 0.507);
+    margin: 50px;
+    padding: 200px;
+}
+.section-front-2{
+    border-left: 4px dashed rgba(255, 196, 0, 0.507);
+    border-bottom: 4px dashed rgba(255, 196, 0, 0.507);
+    margin: 50px;
+    padding: 200px;
+}
