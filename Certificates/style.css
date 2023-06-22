@@ -11,14 +11,11 @@
     justify-self: center;
 }
 .section-front-1{
-    border-right: 4px dashed rgba(255, 196, 0, 0.507);
-    border-bottom: 4px dashed rgba(255, 196, 0, 0.507);
+
     margin-right: 20px;
     padding: 10px 20px;
 }
 .section-front-2{
-    border-left: 4px dashed rgba(255, 196, 0, 0.507);
-    border-bottom: 4px dashed rgba(255, 196, 0, 0.507);
     margin-right: 20px;
     padding: 10px 20px;
     

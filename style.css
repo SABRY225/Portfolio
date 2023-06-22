@@ -1,13 +1,16 @@
-
+*{
+    /* font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .section{
     display: flex;
     background-color: #FBFCFC ;
     
 }
-.section-1{
-    width: 50%;
-    padding: 20px 0px 0px;
-}
+*{
+    margin: 0px;
+} 
+
 .section-1-1{
 font-size: 40px;
 }
@@ -20,45 +23,43 @@ font-size: 40px;
     padding: 50px 10px 0px;
 
 }
-.section-2-0{
-    margin: 80px 72px 0px ;
-    padding: 20px 0px 0px 20px;
-    border-radius: 10px;
-    background-color: #eac719fb ;
-    width: 600px;
-    height: 200px;
-    border: 8px dashed #fbfcfc;
 
-}
 .section-2-1{
-    border-bottom:8px dashed rgba(255, 196, 0, 0.562);
-    border-right:8px dashed rgba(255, 196, 0, 0.959);
+    border-bottom:8px dashed #ffc107;
+    border-right:8px dashed #ffc107;
     border-radius: 20px;
     width: 250px;
-    height: 250px;
+    height:300px;
+    margin-top: 2%;
     margin-left: 30%;
 }
 .section-2-2{
-    border-top:8px dashed rgba(255, 196, 0, 0.959);
-    border-left:8px dashed rgba(255, 196, 0, 0.959);
-    border-radius: 10px;
-    width: 250px;
-    height: 50px;
-    margin-left:  30%;
+    border:4px dashed #ffca2c;
+    border-radius: 20px;
+    margin: 40px 40px;
     text-align: center;
-    padding: 5px 0px 0px;
+    color: brown;
+    font-size: 30px;
 }
-.section-2-3{
-    border:5px dashed rgba(10, 8, 1, 0.589);
-    border-radius: 10px;
-    background-color: #fbfcfc ;
-    width: 600px;
-    height: 200px;
-    padding: 10px 0px 0px 20px;
+.section-2-2:hover{
+    border:4px dashed rgba(214, 212, 206, 0.986);
+    border-radius: 20px;
+    background-color:#ffca2c ;
+    color: rgb(245, 235, 235);
 }
+.darkFooter{
+    display: flex;
+    background-color: rgb(7, 5, 2);
+    color: aliceblue;
+    border-radius:10px ;
+    justify-content: center;
+    padding: 25px 0px;
+    border:5px dashed rgba(235, 233, 227, 0.589);
+}
+
 .footer{
     border-bottom: 1px solid;
-    padding: 7px;
-    margin-left:55px ;
+    padding: 10px;
     color: aliceblue;
+    width: 170px;
 }
