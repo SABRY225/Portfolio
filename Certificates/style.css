@@ -73,3 +73,37 @@
     filter: hue-rotate(180deg);
     }
 }
+.Programming-1{
+    text-align: center;
+    padding:40px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+
+}
+.Programming-1:hover{
+    background-color: #ffc107ab;
+    border-radius: 20px;
+}
+.Programming-1-1{
+    text-decoration: none;
+    padding:5% 13px;
+}
+.Programming-2{
+    text-align: center;
+    padding:40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+
+}
+.Programming-1-2{
+    text-decoration: none;
+    font-size: 35px;
+
+}
+.Programming-2:hover{
+    background-color: #ffc107ab;
+    border-radius: 20px;
+}
+
+
