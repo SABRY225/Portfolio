@@ -76,3 +76,10 @@
     filter: hue-rotate(180deg);
     }
 }
+.project{
+    font-size: 35px;
+    text-align: center;
+    text-decoration: none;
+    color: #2697f3;
+    padding-top: 20%;
+}
